@@ -1,5 +1,5 @@
 # HRMS (Human Resource Management System)
-### PostgreSQL - Database
+### PostgreSQL - Database.
 ### Build with <a href="https://github.com/karcan">Karcan Özbal</a> and <a href="https://github.com/ugurryildiz">Ugur Yildiz</a>
 
 # Structure Explanation
